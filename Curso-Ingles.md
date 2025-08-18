@@ -101,11 +101,108 @@ El video finaliza con una tarea para practicar lo aprendido, que consiste en tra
 5.  Estoy con tus amigos.
 6.  Estoy con tus hermanos.
 
+
+---
+### **Resumen de la Clase #2 de Inglés Básico**
+---
+**Tema principal del video**
+
+Esta segunda clase del curso de inglés desde cero se centra en consolidar los conocimientos de la primera lección y avanzar con nuevos conceptos. Los temas principales son:
+
+*   **Repaso** de los pronombres personales y el verbo *"to be"*.
+*   Introducción a **nuevos verbos** de acción.
+*   Formación del **presente continuo**.
+*   Uso de la **negación** con el verbo *"to be"*.
+
+**Puntos clave explicados**
+
+**1. Repaso de la Clase #1**
+
+Se realiza un repaso de los pronombres personales y su conjugación con el verbo *"to be"*.
+
+*   **Pronombres Personales y Verbo "To Be":**
+    *   **Singular:**
+        *   **I** (Yo) -> **am**
+        *   **You** (Tú/Usted) -> **are**
+        *   **She** (Ella) -> **is**
+        *   **He** (Él) -> **is**
+        *   **It** (Eso/Ello) -> **is**
+    *   **Plural:**
+        *   **We** (Nosotros) -> **are**
+        *   **You** (Ustedes) -> **are**
+        *   **They** (Ellos/Ellas) -> **are**
+
+*   **Ejemplos de Repaso:**
+    *   "Alex es mi amigo" -> *Alex is my friend.* (Se usa **is** porque Alex es "él" - *He*).
+    *   "Ellos son tus amigos" -> *They are your friends.*
+    *   **Contracciones:** También se puede usar la forma corta: *They're your friends.*
+
+**2. Negación con el Verbo "To Be"**
+
+Se introduce la palabra "not" para formar oraciones negativas.
+
+*   **Palabra clave para negar:** **Not** (No).
+
+*   **Estructura:** La palabra **not** se coloca **después** del verbo *"to be"* (am, is, are).
+
+*   **Tabla de Negación:**
+
+| Conjugación | Negación | Contracción |
+| --- | --- | --- |
+| I am | I am **not** | I'm **not** |
+| You are | You are **not** | You're **not** |
+| She is | She is **not** | She's **not** |
+| He is | He is **not** | He's **not** |
+| It is | It is **not** | It's **not** |
+| We are | We are **not** | We're **not** |
+| You are | You are **not** | You're **not** |
+| They are | They are **not** | They're **not** |
+
+*   **Ejemplos de Negación:**
+    *   "Tú no eres mi amigo" -> *You're not my friend.*
+    *   "Ella no es mi mamá" -> *She's not my mom.*
+    *   "Él no es mi hermano" -> *He's not my brother.*
+    *   "Ellos no son mis padres" -> *They're not my parents.*
+
+**3. Vocabulario Nuevo: Familia y Verbos de Acción**
+
+Se amplía el vocabulario con nuevas palabras.
+
+*   **Padres:** *Parents*
+    *   *Parents* en inglés se refiere a ambos, padre y madre. No es un "falso amigo" que signifique parientes.
+
+*   **Verbos de Acción:**
+    *   Comer: *Eat*
+    *   Beber/Tomar: *Drink*
+    *   Leer: *Read*
+    *   Jugar: *Play*
+
+**4. El Presente Continuo (Present Continuous)**
+
+Se explica cómo formar oraciones que describen acciones que están ocurriendo en el momento.
+
+*   **Uso:** Describe lo que alguien está haciendo **ahora mismo**. En español, es el equivalente a las terminaciones "-ando" y "-endo" (ej. comiendo, jugando).
+
+*   **Fórmula para formar el Presente Continuo:**
+    **Pronombre + Verbo "to be" (am/is/are) + Verbo de acción + terminación "-ing"**
+
+*   **Ejemplos de Verbos en Presente Continuo:**
+    *   *Eat* (Comer) -> **Eating** (Comiendo)
+    *   *Drink* (Beber) -> **Drinking** (Bebiendo)
+    *   *Read* (Leer) -> **Reading** (Leyendo)
+    *   *Play* (Jugar) -> **Playing** (Jugando)
+
+*   **Ejemplos de oraciones en Presente Continuo:**
+    *   "Yo estoy comiendo" -> *I am eating* o *I'm eating*.
+    *   "Él está bebiendo" -> *He is drinking* o *He's drinking*.
+    *   "Ella está leyendo" -> *She is reading* o *She's reading*.
+    *   "Nosotros estamos jugando" -> *We are playing* o *We're playing*.
+
 **Conclusiones y Recomendaciones**
 
-*   **Repetición:** Es fundamental repetir las palabras y frases en voz alta para mejorar la pronunciación.
-*   **Tomar Notas:** Se recomienda tener una libreta para apuntar todo lo aprendido.
-*   **Pausar el Video:** Si la información es mucha, se puede pausar el video para asimilarla a un ritmo propio.
-*   **Práctica constante:** La clave para aprender un nuevo idioma es la práctica continua de los conceptos vistos.
+*   **Repetir en voz alta:** Es crucial para mejorar la pronunciación y la fluidez.
+*   **Tomar notas:** Escribir lo aprendido ayuda a reforzar la memoria.
+*   **Practicar con los ejercicios:** La práctica constante es la clave para dominar los conceptos.
+*   **Compartir el contenido:** El instructor anima a compartir la clase en redes sociales para que el curso pueda continuar.
 
-Espero que este resumen te sea de gran utilidad para tu aprendizaje del inglés. ¡Mucho éxito
+Este resumen abarca todos los puntos importantes de la clase, permitiéndote entender las reglas y aplicarlas en los ejercicios propuestos.

@@ -206,3 +206,98 @@ Se explica cómo formar oraciones que describen acciones que están ocurriendo e
 *   **Compartir el contenido:** El instructor anima a compartir la clase en redes sociales para que el curso pueda continuar.
 
 Este resumen abarca todos los puntos importantes de la clase, permitiéndote entender las reglas y aplicarlas en los ejercicios propuestos.
+
+---
+### **Resumen de la Clase #3 de Inglés Básico**
+---
+
+**Tema Principal del Video**
+
+El tema central de esta clase es el **Presente Continuo (Present Continuous)**. El instructor enseña a construir oraciones que describen acciones que están sucediendo en el momento actual. Se enfoca en la estructura gramatical, la conjugación de verbos y la aplicación práctica con ejemplos.
+
+---
+
+**Puntos Clave Explicados**
+
+**1. Introducción y Anuncios**
+
+Antes de comenzar la lección, el instructor comparte algunos puntos importantes con su audiencia:
+
+*   **Posible cambio de nombre del canal:** El canal, actualmente llamado "Maestría Total", podría cambiar de nombre a algo como "Miguel te explica" para reflejar mejor el contenido.
+*   **Continuidad del curso:** Asegura que las clases de inglés seguirán publicándose, aunque también podría subir contenido sobre otros temas.
+*   **Frecuencia de las clases:** Las lecciones se subirán de forma más seguida que una vez por semana para mantener el ritmo de aprendizaje.
+*   **Interacción y apoyo:** Agradece a los estudiantes por el entusiasmo y los anima a seguir compartiendo los videos para que el curso gratuito pueda continuar.
+
+**2. El Presente Continuo (Present Continuous)**
+
+Este es el núcleo de la lección. Se explica qué es y para qué se utiliza.
+
+*   **Definición y Uso:** El presente continuo se usa para describir acciones que están ocurriendo **en este preciso momento**. En español, es el equivalente a usar verbos con las terminaciones **-ando** o **-endo**.
+    *   **Ejemplos en español:**
+        *   Ella está comi**endo**.
+        *   Él está bail**ando**.
+        *   Ellas están trabaj**ando**.
+
+*   **Estructura de la Oración:** Para formar una oración en presente continuo, se sigue esta fórmula:
+    **Sujeto (Pronombre) + Verbo "to be" (am/is/are) + Verbo principal con terminación "ING"**
+    *   **Ejemplo desglosado:** "Ella está comiendo".
+        *   **She** (Pronombre)
+        *   **is** (Verbo "to be" correspondiente a *She*)
+        *   **verbo** (Verbo de la acción)
+
+**3. Formación de Verbos en Presente Continuo (Gerundio)**
+
+Se explica cómo transformar un verbo en su forma base (infinitivo) a su forma continua (gerundio).
+
+*   **Regla principal:** Se añade la terminación **-ing** al final del verbo.
+    *   **Comer:** *eat* -> **eating** (comiendo)
+    *   **Caminar:** *walk* -> **walking** (caminando)
+    *   **Trabajar:** *work* -> **working** (trabajando)
+    *   **Dormir:** *sleep* -> **sleeping** (durmiendo)
+    *   **Cocinar:** *cook* -> **cooking** (cocinando)
+
+    *Nota de pronunciación:* La "g" final en "-ing" es muy suave o casi muda. Por ejemplo, "working" se pronuncia más como *"workin"*.
+
+**4. Vocabulario Nuevo y Artículos "a" / "an"**
+
+Se introducen nuevas palabras para construir oraciones más complejas.
+
+*   **Helado:** *Ice cream*
+*   **Ensalada:** *Salad*
+*   **Un / Una:** En inglés se usan dos palabras, **a** y **an**.
+    *   Se usa **a** cuando la siguiente palabra empieza con un sonido de **consonante**. Ejemplo: **a salad** (una ensalada).
+    *   Se usa **an** cuando la siguiente palabra empieza con un sonido de **vocal**. Ejemplo: **an ice cream** (un helado).
+
+**5. Ejercicios Prácticos y Traducciones**
+
+El instructor guía al espectador a través de varios ejercicios de traducción para aplicar lo aprendido.
+
+*   **Oración:** "Tus papás están trabajando."
+    *   **Análisis:** "Tus papás" se refiere a "ellos" (*they*), por lo que se usa *are*. El adjetivo posesivo "tus" es *your*.
+    *   **Traducción correcta:** **Your parents are working.**
+
+*   **Oración:** "Mi mamá está comiendo una ensalada pero mi papá está caminando."
+    *   **Análisis:** Se unen dos ideas con la palabra "pero" (*but*).
+    *   **Traducción correcta:** **My mom is eating a salad but my dad is walking.**
+
+*   **Oración:** "Mi hermano está comiendo un helado y mi hermana está caminando."
+    *   **Análisis:** Se usa el artículo **an** para "un helado" porque *ice cream* empieza con vocal.
+    *   **Traducción correcta:** **My brother is eating an ice cream and my sister is walking.**
+
+**6. Tarea (Homework)**
+
+Se deja una tarea para reforzar los conocimientos adquiridos:
+
+*   **Instrucción:** Conjugar los 5 verbos nuevos (Cocinar, Comer, Dormir, Trabajar, Caminar) en presente continuo para todos los pronombres personales (I, you, he, she, it, we, they), utilizando las contracciones (ej. *I'm, You're, She's*, etc.).
+*   **Ejemplo con el verbo "caminar" (*walk*):**
+    *   *I'm walking*
+    *   *You're walking*
+    *   *She's walking*
+    *   *He's walking*
+    *   *It's walking*
+    *   *We're walking*
+    *   *You're walking*
+    *   *They're walking*
+
+---
+

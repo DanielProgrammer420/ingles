@@ -300,4 +300,107 @@ Se deja una tarea para reforzar los conocimientos adquiridos:
     *   *They're walking*
 
 ---
+### **Resumen de la Clase #4 de Inglés Básico**
+---
+
+**Tema Principal del Video**
+
+Esta clase se centra en desarrollar habilidades **conversacionales** básicas. Los temas principales son:
+1.  **Presentación:** Aprender a presentarse y a saludar.
+2.  **Modo Interrogante:** Formular preguntas sencillas usando el verbo *"to be"*.
+3.  **Vocabulario clave:** Incorporar nuevas palabras y frases para mantener una conversación simple.
+
+---
+
+**Puntos Clave Explicados**
+
+**1. Introducción y Anuncios del Canal**
+El instructor inicia la clase con algunos anuncios importantes:
+*   **Cambio de nombre:** El canal ha cambiado su nombre de "Maestría Total" a **"Dr. Miguel"** para reflejar mejor su contenido educativo.
+*   **Nuevo contenido:** Además de las clases de inglés, se publicarán videos sobre otros temas de interés con un mensaje positivo.
+*   **Continuidad del curso:** Las clases de inglés continuarán de forma gratuita, y se planea realizar exámenes y dinámicas más adelante.
+
+**2. Vocabulario y Frases para la Conversación**
+
+Se introducen y practican palabras y frases esenciales para iniciar una conversación.
+
+*   **Pronombres y Verbo "to be":**
+    *   **Yo soy:** *I am* (contracción: *I'm*)
+    *   **Tú eres:** *You are* (contracción: *You're*)
+    *   **Tú estás:** *You are* (contracción: *You're*)
+    *   **Nosotros estamos:** *We are* (contracción: *We're*)
+
+*   **Saludos y Preguntas Básicas:**
+    *   **Hola:** Se puede decir *Hi* (más informal) o *Hello* (un poco más formal).
+        *   **Pronunciación:** La "H" en inglés tiene un sonido suave, como si se exhalara aire: *h-h-hi, h-h-hello*.
+    *   **Cómo / Cuánto:** *How*. Se pronuncia con el mismo sonido suave de la "H".
+    *   **¿Cómo estás?:** *How are you?*
+    *   **¿Cómo te va?:** *How you doing?* (frase coloquial y muy común).
+
+*   **Respuestas a "¿Cómo estás?":**
+    *   **Muy bien, gracias:** *I'm great, thank you.*
+    *   **Nada mal:** *Not bad.*
+
+*   **Otras Palabras y Frases:**
+    *   **Aquí:** *Here* (con la "H" aspirada).
+    *   **Gusto en conocerte:** *Nice to meet you.*
+        *   **Pronunciación:** En una conversación fluida, "meet you" puede sonar como *"mi-chu"*.
+
+**3. El Modo Interrogante con el Verbo "to be"**
+
+Esta es la regla gramatical más importante de la clase. Se explica cómo transformar una afirmación en una pregunta.
+
+*   **Regla de Oro:** Para hacer una pregunta, se invierte el orden del pronombre y el verbo "to be".
+
+*   **Estructura de una Afirmación:**
+    *   **Sujeto + Verbo "to be" + Complemento.**
+    *   Ejemplo: *You are here.* (Tú estás aquí.)
+
+*   **Estructura de una Pregunta:**
+    *   **Verbo "to be" + Sujeto + Complemento?**
+    *   Ejemplo: *Are you here?* (¿Estás aquí?)
+
+*   **Más Ejemplos:**
+    *   **Afirmación:** *We are here.* (Nosotros estamos aquí.)
+    *   **Pregunta:** *Are we here?* (¿Estamos aquí?)
+    *   **Afirmación:** *You're sleeping.* (Estás durmiendo.)
+    *   **Pregunta:** *Are you sleeping?* (¿Estás durmiendo?)
+
+**4. Saludos para Diferentes Momentos del Día**
+
+Se enseñan los saludos apropiados según la hora.
+
+*   **Buenos días:** *Good morning.* (Desde la mañana hasta el mediodía).
+*   **Buenas tardes:** *Good afternoon.* (Desde el mediodía hasta aproximadamente las 5 p.m.).
+*   **Buenas tardes/noches (al llegar):** *Good evening.* (Se usa como saludo al llegar a un lugar por la tarde-noche).
+*   **Buenas noches (al despedirse):** *Good night.* (Se usa únicamente para despedirse o antes de ir a dormir).
+
+**5. Práctica Conversacional (Diálogos)**
+
+El instructor guía dos diálogos para practicar todo lo aprendido.
+
+*   **Diálogo 1 (Informal):**
+    *   **Miguel:** *Hi, I'm Miguel.* (Hola, soy Miguel).
+    *   **Tú:** *Hello, I'm [tu nombre].* (Hola, soy [tu nombre]).
+    *   **Miguel:** *How are you?* (¿Cómo estás?).
+    *   **Tú:** *I'm great, thank you. How are you?* (Muy bien, gracias. ¿Cómo estás?).
+    *   **Miguel:** *Not bad.* (Nada mal).
+
+*   **Diálogo 2 (Formal):**
+    *   **Miguel:** *Good morning.* (Buenos días).
+    *   **Tú:** *Good morning.* (Buenos días).
+    *   **Miguel:** *I'm Miguel, nice to meet you.* (Soy Miguel, gusto en conocerte).
+    *   **Tú:** *Nice to meet you, Miguel. I'm [tu nombre].* (Gusto en conocerte, Miguel. Soy [tu nombre]).
+
+**6. Aclaración Importante: Posesivos vs. Pronombres**
+
+Se aclara una duda común entre los estudiantes:
+*   ***You're*** **(con apóstrofo):** Es la contracción de *You are* (Tú eres / Tú estás).
+*   ***Your*** **(sin apóstrofo):** Es un adjetivo posesivo que significa "tu" (de pertenencia).
+    *   **Ejemplo 1:** *You're my friend.* (Tú eres mi amiga).
+    *   **Ejemplo 2:** *He is your friend.* (Él es tu amigo).
+
+**Conclusión y Recomendaciones**
+
+La clase concluye enfatizando que es un curso completo y estructurado, por lo que es importante **no saltarse lecciones**. Se recomienda practicar las frases y la pronunciación para ganar confianza y naturalidad.
 

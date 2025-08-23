@@ -399,8 +399,105 @@ Se aclara una duda común entre los estudiantes:
 *   ***Your*** **(sin apóstrofo):** Es un adjetivo posesivo que significa "tu" (de pertenencia).
     *   **Ejemplo 1:** *You're my friend.* (Tú eres mi amiga).
     *   **Ejemplo 2:** *He is your friend.* (Él es tu amigo).
+---
+### **Resumen de la Clase #5 de Inglés Básico**
+---
+**Tema Principal del Video**
 
-**Conclusión y Recomendaciones**
+Esta clase se enfoca en la construcción de oraciones básicas en **presente simple**. Los temas centrales son:
+1.  **Artículos definidos:** El uso de "The".
+2.  **Presente simple:** Formar oraciones afirmativas y negativas para expresar gustos y acciones.
+3.  **Construcción gramatical:** Entender la estructura de las oraciones.
+4.  **Vocabulario:** Aprender nuevas palabras relacionadas con objetos, animales y acciones cotidianas.
 
-La clase concluye enfatizando que es un curso completo y estructurado, por lo que es importante **no saltarse lecciones**. Se recomienda practicar las frases y la pronunciación para ganar confianza y naturalidad.
+---
 
+**Puntos Clave Explicados con Detalle**
+
+**1. Artículos (El, La, Los, Las)**
+
+A diferencia del español, que tiene múltiples artículos definidos (el, la, los, las), el inglés simplifica esto en una sola palabra.
+
+*   **Concepto clave: El artículo "The"**
+    *   **Definición:** "The" es el único artículo definido en inglés y se utiliza para referirse a algo específico. Equivale a "el", "la", "los" y "las".
+    *   **Pronunciación:** Se pronuncia como si la "th" fuera una "d" suave: *d-d-de*.
+    *   **Ventaja:** No importa si la palabra siguiente es masculina, femenina, singular o plural; siempre se usará "The".
+
+*   **Ejemplos utilizados:**
+    *   **Las estrellas:** *The stars*
+        *   Vocabulario: Estrellas = *stars*. Se enfatiza que la pronunciación no es "estars", sino que empieza con el sonido de la "s": *s-s-stars*.
+    *   **El gato:** *The cat*
+        *   Vocabulario: Gato = *Cat*. La pronunciación correcta tiene una "c" fuerte y una "t" marcada al final: *k-kat*.
+    *   **Los gatos:** *The cats* (se añade una "s" al final para el plural).
+    *   **El tiempo:** *The time*
+        *   Vocabulario: Tiempo = *time*. La "i" suena como "ai".
+    *   **La película:** *The movie*
+        *   Vocabulario: Película tiene dos opciones: *Film* (más formal) o *Movie* (más común y coloquial).
+
+**2. Presente Simple y Construcción Gramatical**
+
+Esta sección explica cómo construir oraciones para hablar de acciones y gustos en tiempo presente.
+
+*   **Concepto Clave: El verbo "Like" (Gustar)**
+    *   **Frase:** "Me gusta" se traduce como **"I like"**.
+
+*   **Regla Gramatical: Uso del auxiliar "to"**
+    *   Cuando a la frase "I like" le sigue una **acción (un verbo)**, es obligatorio usar el auxiliar **"to"** entre "like" y el verbo.
+    *   **Estructura:** I like + **to** + [Verbo de acción]
+    *   **Ejemplo:** Me gusta comer -> *I like **to** eat*.
+
+*   **Regla Gramatical: Oraciones sin acción**
+    *   Si a "I like" le sigue un **sustantivo (una cosa, persona o lugar)** y no una acción, **NO** se usa el auxiliar "to".
+    *   **Estructura:** I like + [Sustantivo]
+    *   **Ejemplo:** Me gusta la película -> *I like the movie*.
+
+*   **Concepto Clave: Negación con "Do Not" (Don't)**
+    *   Para negar una acción en presente simple, se utiliza el auxiliar **"do not"** o su contracción **"don't"**.
+    *   **Estructura afirmativa:** Yo como pollo -> *I eat chicken*.
+    *   **Estructura negativa:** Yo no como pollo -> *I **don't** eat chicken*.
+
+**3. Vocabulario Introducido en la Clase**
+
+*   **Estrellas:** *stars*
+*   **Gato:** *cat*
+*   **Tiempo:** *time*
+*   **Película:** *film / movie*
+*   **Gustar:** *like*
+*   **Comer:** *eat*
+*   **Pollo:** *chicken* (se pronuncia *che-ken*, con la "e" casi muda).
+*   **Caminar:** *walk* (la "l" no se pronuncia).
+*   **Cocinar:** *cook*
+*   **Dormir:** *sleep* (no "eslip", sino *s-s-sleep*).
+*   **Ir:** *go*
+*   **Bailar:** *dance*
+*   **Con:** *with* (la "th" suena como una "d" suave).
+*   **Mi/Mis:** *my*
+*   **Padres:** *parents*
+*   **Hermano:** *brother*
+*   **Hermana:** *sister*
+
+**4. Ejemplos de Oraciones Completas**
+
+Se construyen varias oraciones para aplicar las reglas y el vocabulario.
+
+*   **Afirmativas:**
+    *   *Me gusta la película:* **I like the movie.** (Sin "to" porque "movie" es un sustantivo).
+    *   *Me gusta comer:* **I like to eat.** (Con "to" porque "eat" es un verbo/acción).
+    *   *Yo como pollo:* **I eat chicken.**
+    *   *Yo cocino el pollo con mi hermana:* **I cook the chicken with my sister.**
+    *   *Me gusta caminar con mis padres:* **I like to walk with my parents.**
+    *   *Me gusta bailar con María:* **I like to dance with Maria.**
+
+*   **Negativas:**
+    *   *Yo no camino:* **I don't walk.** (Usando la contracción de "do not").
+    *   *Yo no como pollo:* **I don't eat chicken.**
+    *   *No me gusta bailar con María:* **I don't like to dance with María.**
+    *   *Yo no cocino el pollo con mi hermana:* **I don't cook the chicken with my sister.**
+
+**Conclusiones y Recomendaciones**
+
+*   La clave de la clase es diferenciar cuándo usar el auxiliar **"to"** después de "I like" (solo si sigue un verbo) y cómo usar **"don't"** para negar acciones.
+*   Se insiste en la importancia de **practicar la pronunciación** para sonar más natural.
+*   El instructor recomienda **no saltarse las clases**, ya que el conocimiento es progresivo y se basa en lecciones anteriores.
+*   Se anima a los estudiantes a **pausar el video y escribir las traducciones** en un cuaderno para reforzar el aprendizaje.
+---
